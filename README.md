@@ -1,8 +1,8 @@
 ### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
 
-- 📧 Contato: joaomacenactba@gmail.com
-- 📚 Estudando: Html, Js, Css
 - 🖥 Área: Front-end
+- 📚 Estudando: Html, Js, Css
+- 📧 Contato: joaomacenactba@gmail.com
 
 <div align="left">
   <a href="https://github.com/Jaunzera01">
