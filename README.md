@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
 
-- 🖥 Área: Front-end
-- 📚 Estudando: Html, Js, Css
+- 🖥 Área: Back-end
+- 📚 Foco: Python
 - 📱 Telegram: Joaomacena_cwb
 - 📧 E-mail: joaomacenactba@gmail.com
          
