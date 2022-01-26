@@ -2,8 +2,10 @@
 
 - 🖥 Área: Front-end
 - 📚 Estudando: Html, Js, Css
-- 📧 Contato: joaomacenactba@gmail.com
-
+- 📧 Formas de Contato: 
+         Telegram: Joaomacena_cwb
+         E-mail: joaomacenactba@gmail.com
+         
 ##
 
 <div align="left">
