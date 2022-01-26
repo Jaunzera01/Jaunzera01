@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
 
 - 🖥 Área: Back-end
-- 📚 Foco: Python
+- 📚 Foco principal: Python
 - 📱 Telegram: Joaomacena_cwb
 - 📧 E-mail: joaomacenactba@gmail.com
          
@@ -22,7 +22,8 @@
   <a href ="mailto:joaomacenactba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
    ##
-    
+         
+- Estudando:
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
