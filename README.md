@@ -1,9 +1,9 @@
 ### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
 
 - 🖥 Área: Back-end
-- 📚 Foco principal: Python
+- 📘 Foco principal: Python
 - 📱 Telegram: Joaomacena_cwb
-- 📧 E-mail: joaomacenactba@gmail.com
+- 📪 E-mail: joaomacenactba@gmail.com
          
 ##
 
