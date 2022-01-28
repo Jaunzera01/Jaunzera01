@@ -1,4 +1,4 @@
-### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
+### Olá, eu sou o @Jaunzera01, e aqui está algumas coisas sobre mim 👋
 
 - 🖥 Área: Back-end
 - 📘 Foco principal: Python
