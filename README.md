@@ -2,7 +2,6 @@
 
 - 🖥 Área: Back-end
 - 📘 Foco principal: Python
-- 📱 Telegram: Joaomacena_cwb
 - 📪 E-mail: joaomacenactba@gmail.com
          
 ##
