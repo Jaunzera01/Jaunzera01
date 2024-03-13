@@ -1,9 +1,4 @@
-### Olá, meu nome é João Pedro, e aqui está algumas coisas sobre mim 👋
 
-- 🖥 Área: Front-end
-- 📘 Foco principal: HTML5, CSS3 e Js
-- 📪 E-mail: joaomacenactba@gmail.com
-         
 ##
 
 <div align="left">
